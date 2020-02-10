@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'zz1360/Bud',
+      repo: 'https://github.com/zz1360/Bud',
+	  disqus: 'zz1360',
+	  coverpage: true,
+	  // ╪сть _navbar.md
+	  loadSidebar: true,
+	  // load from _sidebar.md
+	  loadSidebar: true,
+	  subMaxLevel: 2,
+      maxLevel: 4,
+	  el: '#app'
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '',
+      clientSecret: '',
+      repo: 'docsify-starter',
+      owner: 'swimly',
+      admin: ['swimly'],
+      // facebook-like distraction free mode
+      distractionFreeMode: true
+    })
+  </script>
+</body>
+</html>
