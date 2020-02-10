@@ -1,4 +1,4 @@
-<img src="_media/icon-left-font-monochrome-black.png"  width="900" height="400"/>
+<img src="_media/icon-left-font-monochrome-black.png"  width="900"/>
 
 # `Bud of Java`: **日积月累，Java:cherry_blossom:开**
 
