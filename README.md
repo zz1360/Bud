@@ -16,7 +16,7 @@
 
 `Bud of java`：日积月累， `Java` :cherry_blossom:开。
 
-**访问这里获取更好的阅读体验**：[https://www.moreasier.com/Bud/](https://www.moreasier.com/Bud/)
+**访问这里获取更好的阅读体验**：[https://www.moreasier.com](https://www.moreasier.com)
 
 <br/>
 
