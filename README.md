@@ -14,8 +14,9 @@
 
 <br>
 
-
 `Bud of java`：日积月累， `Java` :cherry_blossom:开。
+
+**访问这里获取更好的阅读体验**：[http://www.moreasier.com/Bud/](http://www.moreasier.com/Bud/)
 
 <br/>
 
@@ -41,11 +42,9 @@
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jPCJIB1f7jk" frameborder="0" allowfullscreen></iframe>
-
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ecSuLdwRATI" frameborder="0" allowfullscreen></iframe>
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2Fjzx7fC2g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 </div>
