@@ -27,7 +27,6 @@
 # CONTACT
 
 <div align="center">
-
 [个人博客](https://moreasier.com)
 
 [Twitter](https://twitter.com/zz1360)
